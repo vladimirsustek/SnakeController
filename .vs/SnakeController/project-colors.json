@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4390b8c3-055f-476c-be1b-ebc135a3c462": {
+      "ProjectGuid": "4390b8c3-055f-476c-be1b-ebc135a3c462",
+      "DisplayName": "SnakeController",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
